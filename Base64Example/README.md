@@ -17,4 +17,14 @@
 <li>Şimdi oluşan bayt dizisini bitmap'e dönüştürün.</li>
 </ol>
 
+```java
+Bu teknik ile temel olarak 8 bitlik baytlardan oluşan binary veri 6 bitlik
+parçalara bölünür.(2^6=64) 6 bit ile ifade edilen 64 farklı sayı,
+ASCII karakter kümesinde Printable Character olarak ifade edilen karakterlerle eşleştirilmiştir.
+}
+```
+
+
 <img src="https://user-images.githubusercontent.com/76810449/112138549-b0cc9780-8be2-11eb-9f87-591a0531030b.gif" width="340" height="540" />
+
+
