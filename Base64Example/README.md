@@ -22,6 +22,8 @@
 Bu teknik ile temel olarak 8 bitlik baytlardan oluşan binary veri 6 bitlik
 parçalara bölünür.(2^6=64) 6 bit ile ifade edilen 64 farklı sayı,
 ASCII karakter kümesinde Printable Character olarak ifade edilen karakterlerle eşleştirilmiştir.
+
+Eldeki 6 bitlik verinin bu tablo ile eşleştirilmesi ile Base64 Encoding yapılmış olur.
 }
 ```
 
