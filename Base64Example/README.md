@@ -16,3 +16,4 @@
 <li>Base64 dizesini bayt dizisine çevirin.</li>
 <li>Şimdi oluşan bayt dizisini bitmap'e dönüştürün.</li>
 </ol>
+![base](https://user-images.githubusercontent.com/76810449/112138549-b0cc9780-8be2-11eb-9f87-591a0531030b.gif)
